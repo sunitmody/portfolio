@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal website displaying my portfolio of full-stack web development projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunitmody/portfolio.git"
+  },
+  "keywords": [],
+  "author": "Sunit_Mody",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunitmody/portfolio/issues"
+  },
+  "homepage": "https://github.com/sunitmody/portfolio#readme"
+}
